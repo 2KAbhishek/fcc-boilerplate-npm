@@ -3,6 +3,7 @@
 	"author": "2KAbhishek",
 	"description": "FreeCodeCamp's Managing Packages with NPM Project",
 	"keywords": ["npm", "backend", "freecodecamp", "learn"],
+	"license": "GPL-3.0-or-later",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
