@@ -4,6 +4,7 @@
 	"description": "FreeCodeCamp's Managing Packages with NPM Project",
 	"keywords": ["npm", "backend", "freecodecamp", "learn"],
 	"license": "GPL-3.0-or-later",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
