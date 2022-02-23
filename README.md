@@ -29,7 +29,7 @@
 
 ## What is this
 
-This repo contains the project created for FreeCodeCamp's[Managing Packages with NPM](https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm), part of the Backen-End Development track.
+This repo contains the project created for FreeCodeCamp's [Managing Packages with NPM](https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm), part of the Backen-End Development track.
 
 ## Inspiration
 
@@ -64,7 +64,7 @@ fcc-boilerplate-npm was built using [boilerplate-npm](https://github.com/freeCod
 
 This was pretty straightforward, but I got my doubts cleared about Semantic Versioning, which is summed up in this tweet:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Semantic Versioning ASAP<br>MAJOR.MINOR.PATCH<br><br>Increment<br>Major: breaking changes to the API<br>Minor: backward compatible new features<br>Patch: backward compatible bug fixes<br><br>Prefix<br>~: will use the latest patch available (1.0.x)<br>^: will use the latest minor and patch (1.x.x)<a href="https://twitter.com/hashtag/OpenSource?src=hash&amp;ref_src=twsrc%5Etfw">#OpenSource</a></p>&mdash; Abhishek Keshri (@2KAbhishek) <a href="https://twitter.com/2KAbhishek/status/1496185442693427200?ref_src=twsrc%5Etfw">February 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Semantic Versioning ASAP<br>MAJOR.MINOR.PATCH<br><br>Increment<br>Major: breaking changes to the API<br>Minor: backward compatible new features<br>Patch: backward compatible bug fixes<br><br>Prefix<br>~: will use the latest patch available (1.0.x)<br>^: will use the latest minor and patch (1.x.x)<a href="https://twitter.com/hashtag/OpenSource?src=hash&amp;ref_src=twsrc%5Etfw">#OpenSource</a></p>&mdash; Abhishek Keshri (@2KAbhishek) <a href="https://twitter.com/2KAbhishek/status/1496185442693427200?ref_src=twsrc%5Etfw">February 22, 2022</a></blockquote>
 
 ## What's next
 
