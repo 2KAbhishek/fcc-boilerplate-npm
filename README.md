@@ -29,7 +29,7 @@
 
 ## What is this
 
-This repo contains the project created for FreeCodeCamp's [Managing Packages with NPM](https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm), part of the Backen-End Development track.
+This repo contains the project created for FreeCodeCamp's [Managing Packages with NPM](https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm), part of the Back-End Development track.
 
 ## Inspiration
 
