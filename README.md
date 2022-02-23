@@ -23,29 +23,23 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
-
-<figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/fcc-boilerplate-npm/main/images/screenshot.png" alt="fcc-boilerplate-npm Demo" style="width:100%">
-  <br/>
-  <figcaption>fcc-boilerplate-npm screenshot</figcaption>
-</figure>
+<h3>Managing Packages with NPM 📦📥</h3>
 
 </div>
 
 ## What is this
 
-fcc-boilerplate-npm is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+This repo contains the project created for FreeCodeCamp's[Managing Packages with NPM](https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm), part of the Backen-End Development track.
 
 ## Inspiration
 
-fcc-boilerplate-npm was inspired by `<reason/idea>`.
+Wanted to finish the Back-End Development curriculum.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `node`
 
 ## Getting fcc-boilerplate-npm
 
@@ -54,55 +48,33 @@ To install fcc-boilerplate-npm, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/fcc-boilerplate-npm
 cd fcc-boilerplate-npm
-<install_command>
 ```
 
 ## Using fcc-boilerplate-npm
 
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
+This repo was created to help new developers get started with NPM, and to help people who are trying to complete FCC's Back-End Development certification.
 
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
-```
+Go through the commit history of this repo to understand the solutions to different exercises.
 
 ## How it was built
 
-fcc-boilerplate-npm was built using `<tech/library>`
-
-## Challenges faced
-
-While building fcc-boilerplate-npm the main challenges were `<issue/difficulty>`
+fcc-boilerplate-npm was built using [boilerplate-npm](https://github.com/freeCodeCamp/boilerplate-npm/) as a starting point.
 
 ## What I learned
 
-While building fcc-boilerplate-npm I `<learned/accomplished>` about `<learning/accomplishment>`
+This was pretty straightforward, but I got my doubts cleared about Semantic Versioning, which is summed up in this tweet:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Semantic Versioning ASAP<br>MAJOR.MINOR.PATCH<br><br>Increment<br>Major: breaking changes to the API<br>Minor: backward compatible new features<br>Patch: backward compatible bug fixes<br><br>Prefix<br>~: will use the latest patch available (1.0.x)<br>^: will use the latest minor and patch (1.x.x)<a href="https://twitter.com/hashtag/OpenSource?src=hash&amp;ref_src=twsrc%5Etfw">#OpenSource</a></p>&mdash; Abhishek Keshri (@2KAbhishek) <a href="https://twitter.com/2KAbhishek/status/1496185442693427200?ref_src=twsrc%5Etfw">February 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## What's next
 
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+Planning to finish the Back-end Certification.
 
 Hit the ⭐ button if you found this useful.
 
 ## More Info
+
+Find the accompanying Glitch project [here](https://glitch.com/edit/#!/humble-sassy-day).
 
 <div align="center">
 
